@@ -1,0 +1,9 @@
+﻿#pragma once
+#include <iostream>
+#include <windows.h>
+#include <winrt/Windows.Foundation.h>
+#include <winrt/Windows.Foundation.Collections.h>
+#include <winrt/Windows.Internal.Devices.Sensors.h>
+#include <winrt/Windows.Internal.System.h>
+#include <winrt/Windows.System.Preview.h>
+#include <winrt/Windows.UI.WindowManagement.h>
